@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://iogeinies.lutaaya.com/sitemap.xml
